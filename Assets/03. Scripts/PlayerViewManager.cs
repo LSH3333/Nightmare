@@ -5,7 +5,7 @@
 // 3인칭일때는 1인칭 스크립트 비활성화
 public class PlayerViewManager : MonoBehaviour
 {
-    public PlayerMovement_u movementScript; // 3rd person view 
+    public PlayerMovement movementScript; // 3rd person view 
     public PlayerMovementFristPersonView firstPersonViewScript; // 1st person view 
     public Camera firstPersonViewCam;
   
